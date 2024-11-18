@@ -13,7 +13,7 @@ rickroll <- function(return_link = TRUE) {
     return(link)
   } else {
     invisible(NULL)
-  }
+  }# test
 
 
 }
